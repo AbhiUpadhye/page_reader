@@ -16,7 +16,8 @@ This Python script allows you to estimate the reading time of an HTML page by ex
 4. Activate the virtual environment:
 - On Windows:
     ```
-    venv\Scripts\activate```
+    venv\Scripts\activate
+    ```
 - On macOS and Linux:
     ```
     source venv/bin/activate
@@ -25,6 +26,7 @@ This Python script allows you to estimate the reading time of an HTML page by ex
 ```
 pip install -r requirements.txt
 ```
+
 ## Usage
 To estimate the reading time of an HTML page, you can run the script from the command line with the following syntax:
 ```bash
